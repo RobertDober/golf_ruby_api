@@ -1,0 +1,2 @@
+class ResourceTagMembership < ApplicationRecord
+end
